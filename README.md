@@ -1,0 +1,2 @@
+# Git.odoo
+odoo aplication
